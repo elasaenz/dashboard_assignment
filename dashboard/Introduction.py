@@ -6,8 +6,7 @@ def main():
     st.markdown(
         """
         *The dataset used in this capstone project is sourced from the Google Advanced Data Analysis course. 
-        It encompasses a comprehensive collection of attributes concerning employees, ranging from demographic details to job-related factors. 
-        The primary objective of this analysis is to forecast employee turnover and discern the underlying factors contributing to employee attrition.*
+        It encompasses a comprehensive collection of attributes concerning employees, ranging from demographic details to job-related factors.*
 
         To view the analytics, navigate to the various pages using the sidebar on the left.
 
